@@ -4,7 +4,7 @@ I have worked extensively with <a href="nonexistent.jpg"><img src="data:image/sv
 Octopus Deploy and <a href="nonexistent.jpg"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iOSIgeTE9IjE2Ljk3IiB4Mj0iOSIgeTI9IjEuMDMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwMDc4ZDQiLz48c3RvcCBvZmZzZXQ9Ii4xNiIgc3RvcC1jb2xvcj0iIzEzODBkYSIvPjxzdG9wIG9mZnNldD0iLjUzIiBzdG9wLWNvbG9yPSIjM2M5MWU1Ii8+PHN0b3Agb2Zmc2V0PSIuODIiIHN0b3AtY29sb3I9IiM1NTljZWMiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM1ZWEwZWYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBkPSJNMTcgNHY5Ljc0bC00IDMuMjgtNi4yLTIuMjZWMTdsLTMuNTEtNC41OSAxMC4yMy44VjQuNDR6bS0zLjQxLjQ5TDcuODUgMXYyLjI5TDIuNTggNC44NCAxIDYuODd2NC42MWwyLjI2IDFWNi41N3oiIGZpbGw9InVybCgjYSkiLz48L3N2Zz4=" height="20px"/></a>
 Azure Devops
 
-:dinotocat:
+
 
 <!--
 **housten/housten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
